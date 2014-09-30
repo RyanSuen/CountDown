@@ -1,0 +1,6 @@
+.canvas {
+	border:1px solid #aaa;
+	display:block;
+	margin: 20px auto;
+	background-color: #ddd;
+}
